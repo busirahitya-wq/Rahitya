@@ -1,29 +1,28 @@
 # Hi, I'm Rahitya Priyadarshini 👋
 
 🎓 MS in Information Engineering & Management  
-📍 United States  
+📊 Data Engineer | Data Analyst | AI/ML Enthusiast  
+☁️ Cloud Analytics & Big Data Solutions  
 
 ---
 
 ## 🚀 About Me
 
-I am passionate about building scalable data pipelines, machine learning systems, and cloud-native analytics solutions.
+I specialize in building scalable data engineering pipelines, cloud-native analytics platforms, and AI-driven solutions.
 
-My expertise includes:
+My interests include:
 
-- Python
-- SQL
-- PySpark
-- Azure Databricks
-- Spark SQL
-- Machine Learning
-- AWS & Azure Cloud
-- ETL Pipelines
 - Data Engineering
+- Business Intelligence
+- Cloud Computing
+- Machine Learning
+- Big Data Analytics
+- Data Visualization
+- Enterprise Data Solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Skills
 
 ### Languages
 - Python
@@ -34,11 +33,15 @@ My expertise includes:
 - Spark SQL
 - Databricks
 - Delta Lake
-- Airflow
+- ETL Pipelines
 
-### Cloud
+### Cloud Platforms
 - Azure
 - AWS
+
+### Analytics & Visualization
+- Power BI
+- Tableau
 
 ### Databases
 - PostgreSQL
@@ -49,14 +52,12 @@ My expertise includes:
 
 ## 📌 Featured Projects
 
-### 1. Azure Data Pipeline Project
-Built scalable ETL pipelines using Azure Databricks and PySpark.
-
-### 2. Healthcare Analytics Platform
-Developed machine learning workflows for healthcare datasets.
-
-### 3. SQL Analytics Dashboard
-Created reporting pipelines and business dashboards using SQL.
+- Azure Data Pipeline Project
+- SQL Business Analytics Dashboard
+- Healthcare Data Engineering Platform
+- Machine Learning Forecasting Models
+- Enterprise Reporting Solutions
 
 ---
-
+LinkedIn: YOUR-LINKEDIN
+GitHub: YOUR-GITHUB
