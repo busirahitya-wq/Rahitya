@@ -61,7 +61,3 @@ Created reporting pipelines and business dashboards using SQL.
 
 ---
 
-## 📫 Connect With Me
-
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-GitHub: https://github.com/YOUR-USERNAME
