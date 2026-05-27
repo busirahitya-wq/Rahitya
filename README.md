@@ -1,7 +1,6 @@
 # Hi, I'm Rahitya Priyadarshini 👋
 
 🎓 MS in Information Engineering & Management  
-💻 Data Engineer | Data Scientist | AI/ML Engineer  
 📍 United States  
 
 ---
