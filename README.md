@@ -1,39 +1,39 @@
 # Hi, I'm Rahitya Priyadarshini 👋
 
 🎓 MS in Information Engineering & Management  
-📊 Data Engineer | Data Analyst | AI/ML Enthusiast  
-☁️ Cloud Analytics & Big Data Solutions  
+📊 Data Engineering | Cloud Analytics | AI/ML  
+📍 United States  
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I specialize in building scalable data engineering pipelines, cloud-native analytics platforms, and AI-driven solutions.
+I am an Information Engineering & Management graduate passionate about building scalable data solutions, cloud-based analytics platforms, and intelligent systems.
 
-My interests include:
+My areas of interest include:
 
 - Data Engineering
-- Business Intelligence
 - Cloud Computing
-- Machine Learning
 - Big Data Analytics
+- Machine Learning
+- Business Intelligence
 - Data Visualization
 - Enterprise Data Solutions
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### Languages
+### Programming
 - Python
 - SQL
 
 ### Data Engineering
 - PySpark
 - Spark SQL
+- ETL Pipelines
 - Databricks
 - Delta Lake
-- ETL Pipelines
 
 ### Cloud Platforms
 - Azure
@@ -50,13 +50,14 @@ My interests include:
 
 ---
 
-## 📌 Featured Projects
+## Currently Learning
 
-- Azure Data Pipeline Project
-- SQL Business Analytics Dashboard
-- Healthcare Data Engineering Platform
-- Machine Learning Forecasting Models
-- Enterprise Reporting Solutions
+- Advanced Data Engineering
+- Cloud-Native Analytics
+- Scalable Big Data Processing
+- Machine Learning Workflows
+
+---- Enterprise Reporting Solutions
 
 ---
 LinkedIn: YOUR-LINKEDIN
